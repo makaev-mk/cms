@@ -1,0 +1,16 @@
+{
+    "name": "makaev/cmss",
+    "authors": [
+        {
+            "name": "m.makaev",
+            "email": "m.makaev@alef.im"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI"
+        }
+    }
+}
